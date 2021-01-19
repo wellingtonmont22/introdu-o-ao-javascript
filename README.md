@@ -1,2 +1,5 @@
-# introdu-o-ao-javascript
-introdução ao javascript
+# Introdução ao javascript - Curso do Dio
+
+## Instrutor: Rafael Galleani
+
+
